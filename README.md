@@ -1,2 +1,1 @@
-# resume
-resume from web development
+sample camera using html & css
