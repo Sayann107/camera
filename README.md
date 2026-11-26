@@ -1,1 +1,2 @@
-sample camera using html & css
+Project Status
+Currently exploring Machine Learning and Generative AI.
